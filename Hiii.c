@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-int a=10 b=13;
+int a=10,b=13;
 {
   printf(" The values of a and b before swapping is %d and %d",a,b);
   a=a+b; //a+b=23 (10+13)
